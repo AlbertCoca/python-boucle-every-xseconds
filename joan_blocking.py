@@ -16,7 +16,7 @@ class JoanCode():
     def __init__(self):
         self.finished = False
 
-        # Get to sides of a pipe.
+        # Get two sides of a pipe.
         self.p_left, self.p_right = Pipe()
 
     # _________________________________________________________________________
